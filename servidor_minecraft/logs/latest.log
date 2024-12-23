@@ -198,3 +198,11 @@
 [23Dec2024 12:29:30.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.715s)! For help, type "help"
 [23Dec2024 12:29:30.911] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [23Dec2024 12:29:30.912] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
+[23Dec2024 17:45:10.463] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[23Dec2024 17:45:12.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Dec2024 17:45:12.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Dec2024 17:45:12.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Dec2024 17:45:12.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Dec2024 17:45:13.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Dec2024 17:45:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[23Dec2024 17:45:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
